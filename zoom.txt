@@ -1,0 +1,3 @@
+z=ndimage.zoom(b,1.1)
+d=Image.fromarray(z)
+plt.imshow(d)
