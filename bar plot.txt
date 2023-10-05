@@ -1,0 +1,6 @@
+#bar plot
+x=['anu','hasna','archana']
+y=[7,4,10]
+plt.bar(x,y,color='blue')
+plt.xlabel("name")
+plt.ylabel("marks")
