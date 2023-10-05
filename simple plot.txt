@@ -1,0 +1,6 @@
+#simple plot
+from matplotlib import pyplot as plt
+x=[5,2,4,6]
+y=[7,3,10,7]
+plt.plot(x,y)
+plt.show()
